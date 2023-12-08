@@ -1,0 +1,22 @@
+1. Write a java program to check the given number is prime or composite.
+2. Write a java program to print all the prime number and composite number
+   between 1 to 100.
+3. Write a java program to calculate the power of any number.
+4. Write a java program to round a number in n decimal place.
+5. Write a java program to reverse the string.
+6. Write a java program to join two array in to single array.
+7. Write a java program to reverse a n digit number.
+8. Write a java program to check the given number is palindrome or not.
+9. Write a java program to factorial of a number using loop.
+10. Write a java program to factorial of a number using recursion.
+
+11. Write a java program to the given number is armstrong or not.[hint : a^3 + b^3 + c^3 = abc]
+12. Write a java program to generate a random number between 1 and 100.[ Hint : int b = (int)(Math.random()*(max-min+1)+min);  ]
+13. Write a java program to print the fibonacci series.
+14. Write a java program to find the sum of fibonacci series.
+15. Write a java program to find the ASCII value of given character.
+16. Write a ATM program in java for reference 'https://www.javatpoint.com/atm-program-java'.
+17. Write a java program to check the given number is perfect square or not.(sqrt(number) - Math.floor(sqrt(number))) == 0)
+18. Write a Java Program to Find Smallest of Three Numbers Using Ternary Operator.
+19. Write a java program to find the HCF and LCM of three numbers.
+20. Write a java program to find he (n)th prime nummber. https://www.javatpoint.com/nth-prime-number-java
