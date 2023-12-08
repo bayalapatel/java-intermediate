@@ -6,7 +6,13 @@ public class program13 {
 
         int first_num = 0, second_num = 1, next_num , n = 10;
 
-        for(int i = 1 ; )
+        System.out.print(first_num + " " + second_num + " ");
+        for(int i = 1 ; i <= n ; i++ ){
+            next_num = first_num + second_num;
+            System.out.print(next_num + " ");
+            first_num = second_num;
+            second_num = next_num;
+        }
 
     }    
 }
